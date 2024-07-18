@@ -1,0 +1,66 @@
+.roundtext {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: rgb(149, 20, 20);
+    gap: 35px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 900;
+  }
+
+
+
+#scorecontent {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: red;
+    gap: 35px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  #scoretitle {
+    border-bottom: solid;
+    padding: 10px;
+  }
+
+  #scorecontainer {
+    text-align: center;
+    border-style: solid;
+    width: 500px;
+    margin-bottom: 50px;
+  }
+
+  #resultcontainer {
+    text-align: center;
+    width: 500px;
+    margin: 50px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .buttonscont {
+    display: block;
+  }
+
+  h2 {
+    padding: 0;
+    margin: 0;
+  }
+
+  .text {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
